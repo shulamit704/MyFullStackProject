@@ -1,0 +1,96 @@
+.dynamicForm {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: stretch;
+    vertical-align: top;
+    /* padding-top: 2rem; */
+    flex: auto;
+    direction: rtl;
+    position: relative;
+}
+.dynamicForm .groupContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 2rem 1rem 2rem;
+    gap: 0.3rem;
+    flex: auto;
+}
+.dynamicForm .groupContainer .groupHeaderContainer {
+    display: flex;
+    flex: auto;
+    width: 100%;
+    justify-content: space-between;
+}
+.dynamicForm .groupContainer .groupHeaderContainer .groupHeader {
+    color: var(--groupHeader, #333);
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+/* .dynamicForm .groupContainer .sectionContainer {
+    display: flex;
+    flex: auto;
+    flex-wrap: wrap;
+    column-gap: 1rem;
+    flex-direction: row;
+    position: relative;
+} */
+.dynamicForm .groupContainer .sectionContainer app-dynamic-form.animateIn {
+    animation: fadeIn 0.7s linear forwards;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+.dynamicForm .groupContainer app-dynamic-form.sectionContainer:has(.emptyArray) {
+    display: none;
+}
+.dynamicForm > .groupContainer > .sectionContainer {
+    width: 100%;
+}
+.dynamicForm > .groupContainer > .sectionContainer:not(:has(> app-dynamic-form.actualCtrl)) {
+    flex-direction: column;
+}
+.dynamicForm .err {
+    font-family: 'Arial', sans-serif;
+    font-size: 11px;
+    color: var(--ctrl-error, red);
+    position: absolute;
+    right: 5px;
+    bottom: -13px;
+}
+.dynamicForm .err.mainFormErr {
+    font-weight: bold;
+    font-size: 15px;
+    bottom: -1.5rem;
+}
+.dynamicForm .err.mainFormErr i {
+    margin-left: 0.5rem;
+}
+.dynamicForm .err.sectionErr {
+    font-weight: bold;
+    font-size: 14px;
+    right: 2rem;
+    bottom: -2.5rem;
+}
+.dynamicForm .cancelEditBtnContainer {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    position: absolute;
+    left: 0.7rem;
+    top: 0;
+    z-index: 2;
+}
+.dynamicForm .cancelEdit,
+.dynamicForm .startEdit {
+    font-size: 1.3rem;
+    margin-bottom: 0 !important;
+}
+.dynamicForm .sectionContainer.textMode:focus,
+.dynamicForm .sectionContainer.textMode:focus-within {
+    background-color: #f5f5f5 !important;
+}
+.dynamicForm .startEdit {
+    align-self: center;
+}

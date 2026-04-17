@@ -1,0 +1,27 @@
+
+    <div class="main-continer">
+    <h1> מדדים</h1>
+
+    <div class="container">
+        
+        <div class="chrtCont">
+            <chart [chart]="chart"></chart>
+        </div>
+        
+        <div class="filtersCont">
+                <div class="export-button">
+    <app-excel-export
+      [allData]="mapHeaders(allData)"  
+       [ProducerName]=ProducerName
+       [reportName]=reportName
+       [filterColumns]="filterColumns">
+      </app-excel-export>
+    </div>
+           <app-dynamic-form [formKey]="formKey" [config]="frmControls" [group]="dynForm$" ></app-dynamic-form>
+       </div>
+   </div>
+   </div>
+
+ 
+
+   

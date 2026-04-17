@@ -1,0 +1,407 @@
+
+<div *ngIf="field?.controlType === 'template' && GeneralShowElement" class="templateContainer">
+    <ng-container [ngTemplateOutlet]="field?.value" [ngTemplateOutletContext]="{'sectionGroup': group}"></ng-container>
+  
+    <div [id]="'msg_' + GetMainId" class="msg">
+      {{ field?.message }}
+    </div>
+  </div>
+
+
+  <!-- ~~~~~~~~~~~~~~~~~~~~  SEPARATOR  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  <hr id="{{GetId}}"
+      *ngIf="field?.controlType === 'separator' && GeneralShowElement"
+      aria-hidden="true">
+  
+  <!-- ~~~~~~~~~~~~~~~~~  Create the Actual Form Control  ~~~~~~~~~~~~~~~~~ -->
+  <div *ngIf="field && (field.controlType !== 'template' && field.controlType !== 'separator') && GeneralShowElement" 
+       class="ctrlContainer {{field.classNm}}"
+       [formGroup]="group"
+       [ngClass]="{'horizontal': noCtrlHeader, 'noHeader': field.controlType === 'radio' || field.controlType === 'checkbox', 'textMode': savePerSection }">
+  
+    <label *ngIf="field.controlType.toString().indexOf('button') === -1" 
+           [id]="'lbl_' + GetMainId"
+           [attr.for]="GetMainId"
+           [class.noCtrlHeader]="noCtrlHeader"
+           class="fieldLabel">
+      <div class="txt">
+        {{ field.label }}
+        <i *ngIf="isRequired" class="required fa-solid fa-asterisk" aria-hidden="true"></i>
+      </div>
+      <ng-container [ngTemplateOutlet]?="field.labelTemplate"></ng-container>
+    </label>
+  
+    <!-- for textmode only -->
+    <ng-template #simpleTxt>
+      <div [class.hidden]="editing" readonly class="textModeDivContent" [attr.indx]="indx" [id]="'textModeField_' + GetId">
+        {{ SimpleTextValue || "---" }}
+      </div>
+    </ng-template>
+  
+    <ng-container [ngSwitch]="field.controlType">
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  RADIO BUTTON  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <ng-container *ngSwitchCase="'radio'">
+        <span class="radioGroup" role="radiogroup" [attr.aria-label]="field.label + ' לבחירה'" [attr.aria-required]="isRequired">
+          <ng-container *ngFor="let opt of field.options">
+            <label class="appRadioInput" role="presentation" [ngClass]="{'disabled': field.isDisabled}">
+              <ng-container *ngIf="savePerSection">
+                <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+              </ng-container>
+              <input class="hidden" 
+                     *ngIf="!savePerSection || editing"
+                     type="radio"
+                     [formControlName]="key"
+                     [attr.indx]="indx"
+                     [id]="GetId + '_' + opt.key"
+                     [value]="opt.key"
+                     [attr.aria-describedby]="'err_' + GetMainId"
+                     [class.ctrlErr]="isTouched && !isValid"
+                     [readOnly]="savePerSection && !editing"
+                     autocomplete="off" >
+              <span class="radio" disabled aria-hidden="true"></span>
+              {{ opt.txt }}
+            </label>
+          </ng-container>
+        </span>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /RADIO BUTTON  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  CHECKBOX  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <ng-container *ngSwitchCase="'checkbox'">
+        <label class="appCheckmarkInput" role="presentation" [ngClass]="{'disabled': field.isDisabled}">
+          <ng-container *ngIf="savePerSection">
+            <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+          </ng-container>
+          <input class="hidden" 
+                 *ngIf="!savePerSection || editing"
+                 [formControlName]="key"
+                 [id]="GetId"
+                 type="checkbox"
+                 [attr.indx]="indx"
+                 [class.ctrlErr]="isTouched && !isValid"
+                 [attr.aria-required]="isRequired"
+                 [attr.aria-describedby]="'err_' + GetMainId"
+                 [readOnly]="savePerSection && !editing"
+                 autocomplete="off">
+          <span class="checkmark" aria-hidden="true"></span>
+        </label>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /CHECKBOX  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
+
+
+
+
+      <!-- ~~~~~~~~~~~~~~~~~~~~  CALENDAR  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <ng-container *ngSwitchCase="'calendar'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <p-calendar [class.hidden]="savePerSection && !editing"
+                    [inputId]="GetId"
+                    [formControlName]="key"
+                    [showOnFocus]="false"
+                    [showIcon]="!field.isDisabled"
+                    [monthNavigator]="true"
+                    [yearNavigator]="true"
+                    appendTo="body"
+                    [showButtonBar]="true"
+                    dateFormat="dd/mm/yy"
+                    [readonlyInput]="false"
+                    [selectOtherMonths]="true"
+                    selectionMode="single"
+                    placeholder="dd.mm.yyyy"
+                    [showClear]="true"
+                    [showTime]?="field.showTime"
+                    [showSeconds]="field.showSeconds"
+                    [minDate]="field.minDate"
+                    [maxDate]="field.maxDate"
+                    [defaultDate]?="field.defaultDate"
+                    (ngModelChange)="fc && specialEvent('change', $event, fc)"
+                    (onClear)="fc && specialEvent('select', $event, fc)"
+                    (onBlur)="fc && specialEvent('blur', $event, fc)"
+                    (onClose)="fc && specialEvent('close', $event, fc)"
+>
+          <ng-template pTemplate="header">בחר תאריך</ng-template>
+          <ng-template pTemplate="previousicon">
+            <button type="button" class="iconOnly" pTooltip="הקודם" tooltipPosition="top" [attr.aria-label]="'הקודם'">
+              <i class='fas fa-chevron-left p-datepicker-prev-icon p-icon' aria-hidden='true'></i>
+            </button>
+          </ng-template>
+          <ng-template pTemplate="nexticon">
+            <button type="button" class="iconOnly" pTooltip="הבא" tooltipPosition="top" [attr.aria-label]="'הבא'">
+              <i class='fas fa-chevron-right p-datepicker-next-icon p-icon' aria-hidden='true'></i>
+            </button>
+          </ng-template>
+        </p-calendar>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /CALENDAR  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  SELECT  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ הורדנו את ה null בשורה 156 מ ה value-->
+      <ng-container *ngSwitchCase="'select'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <select class="hidden" 
+                *ngIf="!savePerSection || editing"
+                [formControlName]="key"
+                [attr.indx]="indx"
+                [id]="GetId"
+                [class.placeholder]="needPlaceHolder()"
+                [attr.aria-required]="isRequired"
+                [attr.aria-describedby]="'err_' + GetMainId"
+                autocomplete="off">
+          <option *ngIf="field.placeholder" value="" disabled selected hidden>{{ field.placeholder }}</option>
+          <option *ngFor="let opt of field.options" [value]="opt.key">{{ opt.txt }}</option>
+        </select>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /SELECT  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  MULTIPLE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ add [defaultLabel] line 177 and 178   [selectedItemsLabel]="'נבחרו {0} פריטים'"
+-->
+      <ng-container *ngSwitchCase="'multiple'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <p-multiSelect [class.hidden]="savePerSection && !editing"
+                       [inputId]="GetId"
+                       [options]="field.options"
+                       [formControlName]="key"
+                       optionLabel="txt"
+                       optionValue="key"
+                       [class.placeholder]="needPlaceHolder()"
+                       [class.ctrlErr]="isTouched && !isValid"
+                       [attr.aria-required]="isRequired"
+                       [attr.aria-describedby]="'err_' + GetMainId"
+                       [defaultLabel]="field.placeholder"
+                       [selectedItemsLabel]="'נבחרו {0} פריטים'"
+                       (onChange)="specialEvent('selectionChange', $event, fc)">
+        </p-multiSelect>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /MULTIPLE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  BUTTONS  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <button [id]="GetId" *ngSwitchCase="'buttonIconOnly'" 
+              [attr.indx]="indx"
+              [attr.aria-label]="field.tooltip ? field.tooltip : field.label"
+              [disabled]="field.isDisabled"
+              class="iconOnly {{ field.classNm }}"
+              [pTooltip]?="field.tooltip ? field.tooltip : field.label"
+              tooltipPosition="top">
+        <span class="spanBtnIcon {{ field.icon }}" aria-hidden="true"></span>
+      </button>
+
+      <button [id]="GetId" *ngSwitchCase="'buttonTxt'"
+              [attr.indx]="indx"
+              [attr.aria-label]="field.tooltip ? field.tooltip : field.label"
+              [disabled]="field.isDisabled"
+              class="appBtn btn {{ field.classNm }}"
+              [pTooltip]="field.tooltip ? field.tooltip : field.label" 
+              tooltipPosition="top">
+        <span class="spanBtnTxt">{{ field.label }}</span>
+        <span *ngIf="field.icon" class="spanBtnIcon {{ field.icon }}" aria-hidden="true"></span>
+      </button>
+
+      
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /BUTTONS  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+              <!-- ~~~~~~~~~~~~~~~~~~~~  RANGE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---->
+              <ng-container  *ngSwitchCase="'range'">
+                <app-range class="border"
+                [id]="GetId"
+                [fc]="fc"
+                [min]="field.min?? 55"
+                [max]="field.max ?? 100"
+                [step]="field.step?? 1"
+                [rangetype]="field.rangetype || 'number'"
+                [event]="specialEvent"
+                (valueChanged)="specialEvent('change',$event, fc)"
+                >
+              </app-range>
+               </ng-container>
+                <!-- ~~~~~~~~~~~~~~~~~~~~  /RANGE  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---->
+      <!-- ~~~~~~~~~~~~~~~~~~~~  INPUT TEXT/EMAIL/NUMBER  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <ng-container *ngSwitchCase="'textarea'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <textarea class="hidden"
+                  *ngIf="!savePerSection || editing"
+                  autocomplete="off"
+                  [class.ctrlErr]="isTouched && !isValid"
+                  [formControlName]="key"
+                  [attr.indx]="indx"
+                  [id]="GetId"
+                  [placeholder]="field.placeholder"
+                  [attr.aria-required]="isRequired"
+                  [attr.aria-describedby]="'err_' + GetMainId"
+                  [readOnly]="savePerSection && !editing">
+        </textarea>
+      </ng-container>
+  
+      <ng-container *ngSwitchCase="'inputEmail'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <input class="hidden"
+               *ngIf="!savePerSection || editing"
+               autocomplete="off"
+               [class.ctrlErr]="isTouched && !isValid"
+               [formControlName]="key"
+               type="email"
+               [attr.indx]="indx"
+               [id]="GetId"
+               [placeholder]="field.placeholder"
+               [attr.aria-required]="isRequired"
+               [attr.aria-describedby]="'err_' + GetMainId"
+               [readOnly]="savePerSection && !editing"/>
+      </ng-container>
+  
+      <ng-container *ngSwitchCase="'inputNumberFormatted'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <p-inputNumber class="hidden"
+                       *ngIf="!savePerSection || editing"
+                       autocomplete="off"
+                       [inputId]="GetId"
+                       [formControlName]="key"
+                       [attr.indx]="indx"
+                       [placeholder]="field.placeholder"
+                       [maxlength]="checkMax()"
+                       mode="decimal"
+                       [minFractionDigits]="0"
+                       [maxFractionDigits]="2"
+                       [readonly]="savePerSection && !editing"
+                       [class.ctrlErr]="isTouched && !isValid"
+                       [attr.aria-required]="isRequired"
+                       [attr.aria-describedby]="'err_' + GetMainId">
+        </p-inputNumber>
+      </ng-container>
+  
+      <ng-container *ngSwitchDefault>
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <input class="hidden"
+               *ngIf="!savePerSection || editing"
+               autocomplete="off"
+               type="text"
+               [class.ctrlErr]="isTouched && !isValid"
+               [formControlName]="key"
+               [attr.indx]="indx"
+               [id]="GetId"
+               [placeholder]="field.placeholder"
+               [maxlength]="checkMax()"
+               (keydown)="(field.controlType === 'inputNumber') ? isNumeric($event) : null"
+               [attr.aria-required]="isRequired"
+               [attr.aria-describedby]="'err_' + GetMainId"
+               [readOnly]="savePerSection && !editing">
+      </ng-container>
+
+      <ng-container *ngSwitchCase="'number'">
+          <ng-container *ngIf="savePerSection">
+              <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+          </ng-container>
+          <input class="hidden"
+                 *ngIf="!savePerSection || editing"
+                 autocomplete="off"
+                 type="number"  
+                 [class.ctrlErr]="isTouched && !isValid"
+                 [formControlName]="key"
+                 [attr.indx]="indx"
+                 [id]="GetId"
+                 [placeholder]="field.placeholder"
+                 [maxlength]="checkMax()"
+                 [attr.min]="field.min"
+                 [attr.max]="field.max"  
+                 [attr.step]="field.step" 
+                 (keydown)="(field.controlType === 'inputNumber') ? isNumeric($event) : null"
+                 [attr.aria-required]="isRequired"
+                 [attr.aria-describedby]="'err_' + GetMainId"
+                 [readOnly]="savePerSection && !editing">
+      </ng-container>
+      
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /INPUT TEXT/EMAIL/NUMBER  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /INPUT SWITCH  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+      <ng-container *ngSwitchCase="'inputSwitch'">
+        <p-inputSwitch *ngIf="!savePerSection || (savePerSection && editing)" 
+                       [formControlName]="key"
+                       [class.ctrlErr]="isTouched && !isValid"
+                       [attr.indx]="indx"
+                       [inputId]="GetId"
+                       [placeholder]?="field.placeholder"
+                       [attr.aria-required]="isRequired"
+                       [attr.aria-describedby]="'err_' + GetMainId"
+                       (click)="specialEvent('selectionChange', $event, fc)">
+        </p-inputSwitch>
+      </ng-container>
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /INPUT SWITCH  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+             <!-- ~~~~~~~~~~~~~~~~~~~~  /INPUT SWITCH  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ הוספנו-->
+      <!-- <ng-container *ngSwitchCase="'inputSwitchToggle'">
+  <p-inputSwitch *ngIf="!savePerSection || (savePerSection && editing)" 
+   [formControlName]="key"
+   [class.ctrlErr]="isTouched && !isValid"
+  [inputId]="GetId"
+  
+  (onChange)="specialEvent('change', $event, fc)"
+  >
+  </p-inputSwitch>
+      </ng-container> -->
+<ng-container *ngSwitchCase="'inputSwitchToggle'">
+    
+      <div class="switch-with-labels">
+  <span class="left-label">עמודות</span>
+  
+  <p-inputSwitch
+    *ngIf="!savePerSection || (savePerSection && editing)" 
+    [formControlName]="key"
+    [class.ctrlErr]="isTouched && !isValid"
+    [inputId]="GetId"
+    (onChange)="specialEvent('change', $event, fc)"
+  ></p-inputSwitch>
+  
+  <span class="right-label">גרף</span>
+</div>
+      </ng-container> 
+      <!-- ~~~~~~~~~~~~~~~~~~~~  /INPUT SWITCH  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+  
+    </ng-container>
+
+
+  
+      <!-- ~~~~~~~~~~~~~~~~~~~~  SELECT  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      <ng-container *ngSwitchCase="'select'">
+        <ng-container *ngIf="savePerSection">
+          <ng-template *ngTemplateOutlet="simpleTxt"></ng-template>
+        </ng-container>
+        <select class="hidden" 
+                *ngIf="!savePerSection || editing"
+                [formControlName]="key"
+                [attr.indx]="indx"
+                [id]="GetId"
+                [class.placeholder]="needPlaceHolder()"
+                [attr.aria-required]="isRequired"
+                [attr.aria-describedby]="'err_' + GetMainId"
+                autocomplete="off">
+          <option *ngIf="field.placeholder" value="null" disabled selected hidden>{{ field.placeholder }}</option>
+          <option *ngFor="let opt of field.options" [value]="opt.key">{{ opt.txt }}</option>
+        </select>
+      </ng-container> -->
+
+
+
+    <div [id]="'err_' + GetMainId" class="err">
+      <!-- {{ (isTouched && !isValid) ? getErrorMsg() : '' }}  
+             [min]="field.min" 
+             [max]="field.max" 
+             [step]="field.step"  -->
+    </div>
+  
+    <div [id]="'msg_' + GetMainId" class="msg">
+      {{ field.message }}
+    </div>
+  </div>
+  

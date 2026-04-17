@@ -1,0 +1,9 @@
+
+
+<div *ngIf="posts.length > 0; else loading">
+    <h2>{{ posts[currentIndex].title }}</h2>
+    <p>{{ posts[currentIndex].body }}</p>
+  </div>
+  <ng-template #loading>
+    <p>Loading...</p>
+  </ng-template>

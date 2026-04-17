@@ -1,0 +1,709 @@
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\appsettings.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\server.exe
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\server.deps.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\server.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\server.pdb
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.csproj.CopyComplete
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\refint\server.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.pdb
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\obj\Debug\net7.0\ref\server.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Dapper.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\This User\Desktop\פרקטיקום רשות המיסים\14.02.25\server\server\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.dll
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.pdb
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\appsettings.json
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\server.exe
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\server.deps.json
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\server.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\server.pdb
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\215186214\Desktop\praktikum\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\215186214\Desktop\praktikum\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\יום ראשון\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\משימה חדשה\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\המרה עובדת\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פירסומים\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט מעודכן עם נתיבים\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט עם דוח גמור\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ראשון כט ניסן\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום שני  ל\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום א ו אייר\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום ב ז איר\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום דט  איר\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\appsettings.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\server.exe
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\server.deps.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.pdb
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\328279344\Desktop\פרויקט  מעודכן יום  ה י'  איר\oo\api\obj\Debug\net7.0\ref\server.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\appsettings.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\package-lock.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.staticwebassets.endpoints.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.exe
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.deps.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.runtimeconfig.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\server.pdb
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Dapper.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\DapperExtensions.DotnetCore.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.AssemblyInfo.cs
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.sourcelink.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\swae.build.ex.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.csproj.Up2Date
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\refint\server.dll
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.pdb
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\server.genruntimeconfig.cache
+C:\Users\lavorantit\Desktop\reports\REPORTS\api\obj\Debug\net7.0\ref\server.dll

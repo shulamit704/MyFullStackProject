@@ -1,0 +1,10 @@
+   <h3>כתבות חמות בנושא דלקים</h3>
+<div class="ad-box" *ngIf="articles.length">
+  <h3>כתבות חמות בנושא "{{ topic }}"</h3>
+  <div *ngFor="let article of articles" class="article">
+    <a [href]="article.url" target="_blank">
+      <strong>{{ article.title }}</strong>
+    </a>
+    <p>{{ article.description }}</p>
+  </div>
+</div>

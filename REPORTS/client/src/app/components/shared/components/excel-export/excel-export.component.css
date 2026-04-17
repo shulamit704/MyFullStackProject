@@ -1,0 +1,20 @@
+/* עיצוב כפתור הייצוא לאקסל */
+::ng-deep button.p-element.p-button-success.p-button-sm.p-button.p-component {
+    top: 3px;
+    border-radius: 10px;
+}
+
+/* עיצוב קישור הייצוא לאקסל */
+.excel-export-link {
+  color: #219653;
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  direction: rtl;
+  display: block;
+  text-align: center; /* יישור לימין */
+}
+.excel-export-link:hover {
+  text-decoration: none;
+}

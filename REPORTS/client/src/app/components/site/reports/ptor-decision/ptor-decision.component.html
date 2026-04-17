@@ -1,0 +1,33 @@
+<!-- <body class="backrounfColor"> -->
+  
+<div class="position-relative">
+  <h1> צווי הפטור</h1>
+
+  <div class="main-continer">
+   <div class="container">
+  
+   
+<div class="chrtCont">
+       <chart [chart]="chart"></chart>
+       </div>
+       <div class="filtersCont">
+          <div class="export-button">
+ <app-excel-export
+      [allData]="mapHeaders(allData)"  
+      [filterData]="mapHeaders(filteredData)"
+       [ProducerName]=ProducerName
+       [reportName]=reportName
+       [filterColumns]="filterColumns">
+      </app-excel-export>
+  </div>
+           <app-dynamic-form [formKey]="formKey" [config]="frmControls" [group]="dynForm$" ></app-dynamic-form>
+       </div>
+   </div>
+   </div>
+</div>
+
+
+
+
+   
+ 

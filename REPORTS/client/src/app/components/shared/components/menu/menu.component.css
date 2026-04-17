@@ -1,0 +1,153 @@
+::ng-deep .p-dropdown-empty-message {
+  display: none !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+ 
+}
+ 
+::ng-deep .p-dropdown-panel {
+  display: none !important;
+ 
+}
+ 
+.card {
+  /* display: flex; */
+  justify-content: flex-end; /* מיקום החץ בצד ימין */
+ 
+}
+.menu-logo {
+  height: 40px; /* התאמת גובה */
+  position: absolute; /* מיקום מוחלט */
+  top: 50%; /* ממרכז את התמונה אנכית */
+  transform: translateY(-50%); /* מתקן את המיקום האנכי */
+  left: 0; /* מיקום בצד השמאלי ביותר */
+  margin-left: 10px; /* רווח מצד שמאל */
+
+}
+::ng-deep .p-dropdown {
+  position: relative; /* מאפשר שליטה במיקום */
+  left: -10px; /* מזיז את החץ 10 פיקסלים שמאלה */
+  top: 5px; /* מוריד את החץ 5 פיקסלים למטה */
+}
+ 
+/* הסתרת הרקע והגבול של ה-dropdown */
+::ng-deep .p-dropdown {
+  background: none !important; /* הסרת הרקע */
+  border: none !important; /* הסרת הגבול */
+  box-shadow: none !important; /* הסרת הצל */
+  padding: 0 !important; 
+  margin: 0 !important; /* ביטול ריווח חיצוני */
+  width: auto !important; /* התאמת רוחב */
+  height: auto !important; /* התאמת גובה */
+}
+ 
+/* התאמת הסגנון של החץ */
+::ng-deep .p-dropdown-trigger {
+  background: none !important; /* הסרת רקע לחץ */
+  border: none !important; /* הסרת גבול לחץ */
+  box-shadow: none !important; /* הסרת צל לחץ */
+  display: flex !important; /* מיקום מרכזי של החץ */
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer; /* סמן עכבר מותאם */
+}
+ 
+/* עיצוב החץ */
+::ng-deep .p-dropdown-trigger-icon {
+  color: #007bff; /* צבע החץ */
+  font-size: 1.5rem; /* גודל החץ */
+  transform: rotate(0deg); /* כיוון החץ */
+  transition: transform 0.3s ease; /* אפקט מעבר */
+}
+ 
+/* אפקט hover על החץ */
+::ng-deep .p-dropdown:hover .p-dropdown-trigger-icon {
+  color: #0056b3; /* שינוי צבע החץ בעת ריחוף */
+}
+/* הסתרת האייקון המקורי */
+::ng-deep .p-dropdown-trigger-icon {
+  font-size: 0; /* הסתרת האייקון המקורי */
+  position: relative; /* מאפשר שימוש ב-before ו-after */
+  width: 10px;
+  height: 10px;
+}
+ 
+/* חץ ימני עליון */
+::ng-deep .p-dropdown-trigger-icon::before {
+  content: '';
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #007bff; /* צבע החץ */
+  position: absolute;
+  left: -6px; /* מיקום החץ הימני העליון */
+  top: -4px;
+}
+ 
+/* חץ ימני תחתון */
+::ng-deep .p-dropdown-trigger-icon::after {
+  content: '';
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #007bff; /* צבע החץ */
+  position: absolute;
+  left: -6px; /* מיקום החץ הימני התחתון */
+  top: 4px;
+}
+ 
+/* סיבוב החץ המקורי */
+::ng-deep .p-dropdown-trigger-icon {
+  transform: rotate(-90deg); /* סיבוב החץ לכיוון ימין */
+  transition: transform 0.3s ease; /* אנימציה לשיפור חוויית המשתמש */
+}
+ 
+/* חץ שני מימין */
+::ng-deep .p-dropdown-trigger-icon::after {
+  content: ''; /* יצירת אלמנט חץ נוסף */
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid #007bff; /* צבע החץ הנוסף */
+  position: absolute;
+  left: 10px; /* מיקום החץ השני מימין לחץ הראשון */
+  top: 0; /* יישור לגובה החץ הראשון */
+  transform: rotate(0deg); /* כיוון החץ השני */
+}
+ 
+/* מיקום הקונטיינר של החץ */
+::ng-deep .p-dropdown-trigger {
+  display: flex; /* מאפשר סידור גמיש */
+  justify-content: flex-end; /* מציב את החץ בצד ימין */
+  align-items: center; /* ממרכז את החץ אנכית */
+  position: relative; /* מאפשר עבודה עם מיקום אבסולוטי */
+}
+ 
+/* מיקום החץ */
+::ng-deep .p-dropdown-trigger-icon {
+  transform: rotate(-90deg); /* מסובב את החץ לכיוון ימין */
+  transition: transform 0.3s ease; /* אפקט חלק */
+}
+::ng-deep.p-menubar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color:rgb(23, 47, 93);
+    color: white;
+    border-radius: 0;
+    direction:rtl
+  }
+  ::ng-deep.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content .p-menuitem-link .p-menuitem-text {
+    color: #ffffff;
+}
+::ng-deep.p-menubar .p-menubar-root-list > .p-menuitem:not(.p-highlight):not(.p-disabled) > .p-menuitem-content:hover .p-menuitem-link .p-menuitem-text {
+  color: #3de51d;
+}
+/* ::ng-deep.p-menubar .p-menubar-root-list > .p-menuitem > .p-menuitem-content  .p-menuitem-link:hover  .p-menuitem-text{
+  color: #000000!important;
+} */
+
+::ng-deep.p-menubar .p-menuitem.p-highlight > .p-menuitem-content .p-menuitem-link .p-menuitem-text
+{
+  color: rgb(0, 0, 0);
+}

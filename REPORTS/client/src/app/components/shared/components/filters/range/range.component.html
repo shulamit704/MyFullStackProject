@@ -1,0 +1,90 @@
+<div [ngSwitch]="rangetype" class="range-container">
+  <ng-container *ngSwitchCase="'calendar'">
+    <div class="card flex justify-content-center range-item">
+      <div class="continput">
+        <p-calendar
+          [(ngModel)]="date1"
+          dateFormat="mm/yy"
+          view="month"
+          [minDate]="minDate"
+          [maxDate]="maxDate"
+          [yearNavigator]="true"
+          [yearRange]="yearRange"
+          (ngModelChange)="onDateChange($event, 0)"
+        >
+        </p-calendar>
+      </div>
+    </div>
+    <div class="card flex justify-content-center range-item">
+      <p-calendar
+        [(ngModel)]="date2"
+        dateFormat="mm/yy"
+        view="month"
+        [minDate]="minDate"
+        [maxDate]="maxDate"
+        [yearRange]="yearRange"
+        (ngModelChange)="onDateChange($event, 1)">
+       
+      </p-calendar>
+    </div>
+  </ng-container>
+ 
+  <ng-container *ngSwitchCase="'number'">
+    <div class="card flex flex-wrap gap-3 p-fluid range-item">
+        <p-inputGroup>
+            <p-inputNumber
+                [(ngModel)]="currentValue2"
+                [showButtons]="true"
+                [useGrouping]="false"
+                inputId="minmax-buttons"
+                [min]="min"
+                [max]="max"
+                [useGrouping]="false"
+                [showButtons]="true"
+                inputmode="numeric"
+                [step]="step"
+                (ngModelChange)="onNumberChange($event, 0)"
+  (keypress)="preventMoreThan3Digits($event)"
+                >
+            </p-inputNumber>
+            <span *ngIf="min === 1 && max === 100">%</span>
+        </p-inputGroup>
+    </div>
+    <div class="card flex flex-wrap gap-3 p-fluid range-item">
+        <p-inputGroup>
+            <p-inputNumber
+                [(ngModel)]="currentValue3"
+                inputId="minmax-buttons"
+                [min]="min"
+                [max]="max"
+                [step]="step" 
+                [useGrouping]="false"
+                [showButtons]="true"
+                inputmode="numeric"          
+                (ngModelChange)="onNumberChange($event,1)">
+            </p-inputNumber>
+            <span *ngIf="min === 1 && max === 100">%</span>
+        </p-inputGroup>
+    </div>
+</ng-container>
+</div>
+<p-slider
+  *ngIf="rangetype === 'number'"
+  [range]="true"
+  [min]="min"
+  [max]="max"
+  [step]="step"
+  [(ngModel)]="selection"
+  (onSlideEnd)="handle($event)">
+</p-slider>
+ 
+<p-slider
+  *ngIf="rangetype === 'calendar'"
+  [range]="true"
+  [min]="0"
+  [max]="monthsRange"
+  [step]="1"
+  [(ngModel)]="calendarSliderSelection"
+  (onSlideEnd)="handle({values: calendarSliderSelection})">
+</p-slider>
+ 

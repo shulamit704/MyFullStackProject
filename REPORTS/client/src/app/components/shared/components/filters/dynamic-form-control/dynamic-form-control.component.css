@@ -1,0 +1,141 @@
+/* //label */
+.err {
+    font-family: var(--fontSemi, Arial, sans-serif);
+    font-size: 11px;
+    line-height: 11px;
+    color: var(--ctrl-error, var(--attention, red));
+    position: absolute;
+    right: 5px;
+    bottom: -13px;
+}
+.msg {
+    font-family: var(--fontSemi, Arial, sans-serif);
+    font-size: 11px;
+    line-height: 11px;
+    color: var(--ctrl-msg, var(--attentionPrimary, #007bff));
+    position: sticky;
+    right: 5px;
+    bottom: -13px;
+    height: 0;
+}
+.ctrlContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1875rem;
+    /* margin: 0.65rem 0.65rem 1rem 0.65rem; */
+    position: relative;
+    padding: 12px;
+    /* width: 17vw; */
+}
+.ctrlContainer.horizontal {
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+.ctrlContainer .noHeader {
+    align-self: center;
+    margin-top: 1rem;
+}
+.ctrlContainer label {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: var(--ctrl-label-forecolor, var(--textColorMild, #666));
+    font-family: var(--fontRegular, Arial, sans-serif);
+    font-size: 13px;
+    line-height: normal;
+    direction: rtl;
+}
+.ctrlContainer label.fieldLabel {
+    min-height: 1rem;
+}
+.ctrlContainer label.noCtrlHeader {
+    font-size: 14px;
+    color: var(--ctrl-label-noHeader-forecolor, var(--textColorMild, #666));
+}
+.ctrlContainer label .txt {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.ctrlContainer:has(p-inputswitch) label {
+    color: var(--ctrl-label-switchHeader-forecolor, #333);
+}
+.ctrlContainer input {
+    width: 100%;
+    /* min-width: 130px; */
+    max-width: unset;    /* ? */
+
+}
+.ctrlContainer input,
+.ctrlContainer textarea {
+    direction: var(--controlDirection, rtl);
+    text-align: var(--controlTextDirection, right);
+}
+.ctrlContainer .appRadioInput {
+    font-size: 14px;
+}
+.ctrlContainer .appRadioInput:first-child {
+    margin-right: 1rem;
+}
+.ctrlContainer .appRadioInput:last-child {
+    margin-left: 0;
+}
+.ctrlContainer .textModeDivContent {
+    border: var(--textModeFieldBorder, none);
+    background-color: var(--textModeFieldBg, transparent);
+    font-weight: var(--textModeFieldFontWeight, bold);
+    font-size: var(--textModeFieldFontSize, 16px);
+    line-height: var(--textModeFieldLineHeight, 20px);
+    padding: var(--textModeFieldPadding, 0);
+    min-width: var(--textModeFieldMinWidth, 130px);
+    max-width: var(--textModeFieldMaxWidth, unset);
+}
+.ctrlContainer p-calendar {
+    width: 100%;
+}
+.ctrlContainer p-inputswitch {
+    margin-top: 6px;
+    align-self: center;
+}
+.ctrlContainer select {
+    width: 100%;
+     min-width: 148px;/* ? */
+    max-width: unset;/* ? */
+}
+.ctrlContainer textarea {
+    width: 100%;
+    /* padding: 0.6rem; */
+    min-width: 23rem;
+    min-height: 3.3rem;
+    max-width: unset;
+}
+@media screen and (max-width: 1200px) {
+    .ctrlContainer textarea {
+        min-width: 20rem;
+    }
+}
+.ctrlContainer input.ctrlErr,
+.ctrlContainer select.ctrlErr,
+.ctrlContainer textarea.ctrlErr {
+    border-color: var(--ctrl-error, orange);
+}
+.ctrlContainer input.ctrlErr:focus-visible,
+.ctrlContainer select.ctrlErr:focus-visible,
+.ctrlContainer textarea.ctrlErr:focus-visible {
+    outline: var(--ctrl-error, orange) 1px solid !important;
+    box-shadow: 0 0 5px var(--ctrl-error, orange) !important;
+}
+.ctrlContainer span[role="radiogroup"] {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+.ctrlContainer span[role="radiogroup"] .appRadioInput {
+    width: 100%;
+    white-space: nowrap;
+}
+.ctrlContainer span[role="radiogroup"] .appRadioInput:first-child {
+    margin-right: 10px;
+}

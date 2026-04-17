@@ -1,0 +1,23 @@
+  <div class="export-button">
+  </div>  <div class="main-continer">
+    <h1>כמות צווים</h1>
+
+    <div class="container">
+      
+      <div class="chrtCont">
+        <chart [chart]="chart"></chart>
+      </div>
+      
+      <div class="filtersCont">
+            <app-excel-export
+     [allData]="mapHeaders(allData)"
+     [filterData]="mapHeaders(filteredData)"
+     [fileName]="getFileName()">
+   </app-excel-export>
+           <app-dynamic-form [formKey]="formKey" [config]="frmControls" [group]="dynForm$" ></app-dynamic-form>
+       </div>
+   </div>
+   </div>
+   
+  
+  

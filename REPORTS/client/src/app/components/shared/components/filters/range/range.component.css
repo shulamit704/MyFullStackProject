@@ -1,0 +1,129 @@
+::ng-deep  .p-slider-animate.p-slider-horizontal .p-slider-range {
+    transition:none!important;
+}
+ 
+::ng-deep .p-slider-animate.p-slider-horizontal .p-slider-handle {
+    transition: none !important; /* ביטול טרנזישנים */
+    animation: none !important;  /* ביטול אנימציות */
+}
+::ng-deep.p-slider.p-slider-horizontal {
+    height: 0.286rem;
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+    border-radius: 4px;
+    z-index: 10;
+}
+ 
+.range-container[_ngcontent-ng-c253364920]{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    direction: ltr;
+}
+ 
+ .range-item {
+    margin: 0 0.2rem 0.1rem 0.2rem; /* למעלה 0, ימין ושמאל 0.5rem, למטה 1.5rem */
+    direction: rtl;
+  }
+.p-slider.p-slider-animate.p-slider-horizontal .p-slider-range
+{
+        transition: none !important;
+}
+.range-container {
+    margin: 0 auto;
+    display: flex;
+    height:2.5rem;
+    direction: ltr;
+}
+ 
+::ng-deep .p-inputnumber-buttons-stacked .p-inputnumber-button-group .p-button.p-inputnumber-button{
+    flex: inherit;
+    height: 13px;
+    background-color: white;
+    color: black;
+    border: solid 1px rgb(225, 225, 225);
+    width: auto;
+}
+::ng-deep .p-fluid .p-inputnumber .p-inputnumber-input {
+    height: 10px;
+    width:5.5vw;
+     box-sizing: border-box;
+      border: 1px solid #bdbdbd;
+      /* border: 1px solid #bdbdbd;
+        box-sizing: border-box; */
+}
+ 
+::ng-deep.p-calendar .p-inputtext{
+    width: 6.5vw;
+    height: 10px;
+    border-radius: 0;
+      border: 1px solid #bdbdbd; /* מסגרת אפורה דקה */
+    box-sizing: border-box;
+     margin-right: 2px;  
+}
+ 
+ 
+ 
+/* הזזת האינפוט הימני (הראשון) שמאלה */
+::ng-deep .p-calendar .p-inputtext:first-of-type {
+    margin-left: 5px;
+    /* שנה את הערך לפי הצורך */
+}
+::ng-deep .p-inputnumber input:focus,
+::ng-deep .p-inputnumber-input:focus,
+::ng-deep .p-inputtext:focus {
+  box-shadow: none !important;
+  border-color: black !important;
+}
+::ng-deep .p-inputnumber, .p-inputnumber  {
+    display: flex;
+    flex-direction: row-reverse;
+}
+ 
+.ctrlContainer[_ngcontent-ng-c1554105633]{
+align-items:none ;
+}
+ 
+::ng-deep .p-component{
+    border-radius: 0;
+    /* border-right: none; */
+}
+ 
+::ng-deep  .p-slider .p-slider-range {
+    background: #75839b;
+ 
+}
+ 
+::ng-deep .p-slider .p-slider-handle {
+    border: 2px solid #64748b;
+ 
+}
+::ng-deep .p-slider .p-slider-handle:hover {
+    background-color: rgb(9, 10, 9); /* צבע עיגול כשעומדים עליו */
+}
+ 
+ 
+/* עיצוב כללי לסימן האחוז */
+span.ng-star-inserted {
+    background-color: transparent; /* ביטול צבע הרקע */
+    color: #666; /* צבע טקסט */
+    position: absolute; /* מיקום מוחלט בתוך הקבוצה */
+    top: 47px; /* התאמת המיקום האנכי */
+    transform: translateY(-50%); /* יישור אנכי */
+    font-size: 1rem; /* גודל טקסט מתאים */
+    font-size: 0.8rem;
+    pointer-events: none; /* מונע אינטראקציה עם הסימן */
+}
+ 
+ 
+/* התאמה לאינפוט הימני */
+div.range-item:nth-of-type(1) span.ng-star-inserted {
+    right:5.5rem;
+}
+ 
+/* התאמה לאינפוט השמאלי */
+div.range-item:nth-of-type(2) span.ng-star-inserted {
+    right:12rem;
+}
+ 

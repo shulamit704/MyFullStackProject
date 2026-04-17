@@ -1,0 +1,24 @@
+<!-- <body class="backrounfColor"> -->
+    <div class="main-continer">
+        <h1>תעריפי דלק</h1>
+
+<div class="container">
+ 
+    <div class="chrtCont">
+    <chart [chart]="chart"></chart>
+    </div>
+ 
+    <div class="filtersCont">
+                <app-excel-export
+            [allData]="mapHeaders(allData)"  
+           
+             [ProducerName]=ProducerName
+             [reportName]=reportName
+             [filterColumns]="filterColumns">
+            </app-excel-export>
+        <app-dynamic-form [formKey]="formKey" [config]="frmControls" [group]="dynForm$" ></app-dynamic-form>
+    </div>
+</div>
+</div>
+<!-- [filterData]="mapHeaders(filteredData)" -->
+ 

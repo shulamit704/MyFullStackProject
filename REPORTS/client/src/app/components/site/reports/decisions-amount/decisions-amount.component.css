@@ -1,0 +1,29 @@
+
+.container {
+  display: flex;
+  align-self: start;
+  align-items: center;
+  justify-content: center;
+}
+
+.chrtCont {
+  width: 60%;
+  color: black;
+  height: 60vh;
+  max-height: 500px;
+  min-height: 250px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.export-button {
+  position: absolute;
+  margin-top: 5.5rem;
+  right: 19rem;
+}

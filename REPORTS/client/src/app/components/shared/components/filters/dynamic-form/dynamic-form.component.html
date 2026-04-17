@@ -1,0 +1,113 @@
+<!-- ~~~~~~  This is the first Section containing ALL the other sections  ~~~~~~ -->
+<ng-container *ngIf="section && !isChild">
+    <div class='dynamicForm' [formGroup]="group">
+        <div class="groupContainer">
+            <!-- Call the template below to create the section -->
+            <ng-content *ngTemplateOutlet="children"></ng-content>
+        </div>
+        <div [id]="'err_' + key" class="mainForm err" [class.mainFormErr]="group.touched && !group.valid">
+            <ng-container *ngIf="(group?.errors && group?.touched && !group?.valid)">
+                <i class="fa-solid fa-exclamation" aria-hidden='true'></i>
+                <!-- {{getMainFormErrorMsg()}} -->
+            </ng-container>
+        </div>
+    </div>
+</ng-container>
+
+<!-- ~~~~~~~~~  Create a Section but there is no key yet.  ~~~~~~~~~ -->
+<ng-container *ngIf="section && isChild && !key">
+    <!-- Call the template below to create the section -->
+    <ng-content *ngTemplateOutlet="children"></ng-content>
+</ng-container>
+
+<!-- ~~~~~~~~~  Create a new Section for the new key  ~~~~~~~~~ -->
+<ng-container *ngIf="section && isChild && key">
+    <div class="groupContainer {{key}}"
+        [class.ctrlErr]="isTouched && !isValid"
+        [attr.aria-describedby]="(isTouched && !isValid) ? ('err_' + key):''">
+        <!-- Call the template below to create the section -->
+        <ng-content *ngTemplateOutlet="children"></ng-content>                
+        <div [id]="'err_' + key" class="err" [class.sectionErr]="isTouched && !isValid"> 
+            <!-- {{(isTouched && !isValid) ? getErrorMsg() : ''}} -->
+        </div>
+    </div>
+</ng-container>
+
+<!-- ~~~~~~~~~  This template actually creates the section  ~~~~~~~~~ -->
+<ng-template #children>
+
+    <div class="groupHeaderContainer">
+        <h2 *ngIf="section?.title" class="groupHeader">{{ section?.title }}</h2>
+        <ng-container *ngIf="section?.titleTemplate">
+            <ng-template *ngTemplateOutlet?="section?.titleTemplate"></ng-template>
+        </ng-container>
+    </div>
+   
+    <div class="sectionContainer" [ngClass]="{'textMode':section?.savePerSection && !section?.editing}"
+        [attr.sectionGroup]="key">
+        
+        <div *ngIf="section?.savePerSection && !section?.stayInCurrentEditingMode" 
+             class="cancelEditBtnContainer">
+            <button class='iconOnly cancelEdit' pTooltip="ביטול עדכן" tooltipPosition="top"
+                    (click)="cancelEdit()" [class.hidden]="!section?.editing"
+                    aria-label="ביטול עידכון">
+                <i class="fa-solid fa-xmark" aria-hidden='true'></i></button>
+        </div>
+
+        <app-dynamic-form *ngFor="let sectionField of sectionFields" 
+            [isChild]="true" [config]="sectionField[1]" [indx]="indx" [id]="sectionField[0] + (indx? '_' + indx.toString() : '')"
+            [key]="sectionField[0]" [group]="key ? sectionGroup : group"
+            [formKey]="formKey" [savePerSection]="section?.savePerSection" [editing]="section?.editing"
+            [uniqueIdForForm]="section?.uniqueIdForForm"
+            [ngClass]="{'actualCtrl': sectionField[1].controlType,
+                        'radioAsGroupedControl': sectionField[1].radioShowGrouped}">
+        </app-dynamic-form>
+        
+        <!-- <button *ngIf="section?.savePerSection && !section?.stayInCurrentEditingMode"
+          (click)="section?.editing =true"
+                pTooltip="עדכן" tooltipPosition="top"
+                class='iconOnly startEdit' [class.hidden]="section?.editing" aria-label="עדכן">
+            <i class="fa-solid fa-pencil" aria-hidden='true'></i></button> -->
+
+            <button *ngIf="section?.savePerSection && !section?.stayInCurrentEditingMode" 
+            (click)="setEditing(true)"
+            pTooltip="עדכן" 
+            tooltipPosition="top"
+            class="iconOnly startEdit" 
+            [class.hidden]="section?.editing" 
+            aria-label="עדכן">
+        <i class="fa-solid fa-pencil" aria-hidden="true"></i>
+    </button>
+    </div>
+
+</ng-template>
+
+<!-- ~~~~~~~~~  This container is a Form Array with controls inside  ~~~~~~~~~ -->
+<ng-container *ngIf="array">
+    <div [formGroup]="group" class="arrayContainer" [class.emptyArray]="array.length===0">
+        <div [formArrayName]?="key" class="array">
+            <ng-container *ngFor="let item of array; let i = index">
+                <app-dynamic-form role="group" [attr.aria-label]="'קבוצה מספר ' + (i + 1).toString()"
+                                [config]="item" [key]="i.toString()" [id]="key + i.toString()"
+                                [isChild]="true" [group]="sectionGroup" [indx]="i.toString()"
+                                [formKey]="formKey" 
+                                [class.ctrlErr]="isDirty && !isValid"
+                                [class.actualCtrl]?="item['controlType']" 
+                                class="animateIn" 
+                                [uniqueIdForForm]="uniqueIdForForm"
+                                [savePerSection]="savePerSection" [editing]?="editing">
+                </app-dynamic-form>
+            </ng-container>
+        </div>
+    </div>
+</ng-container>
+
+<ng-container *ngIf="field">
+    <app-dynamic-form-control
+         [field]="field" [group]="group" 
+         [key]="key" [id]="id" [indx]="indx" [uniqueIdForForm]="uniqueIdForForm"
+         [savePerSection]="savePerSection" [editing]="editing">
+    </app-dynamic-form-control>
+</ng-container>
+
+
